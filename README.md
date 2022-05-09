@@ -1,4 +1,3 @@
-# Groupe de damour_f 965726
 Pour ce Projet nous avons crée une Api  à l'aide de laravel donc voilà les commandes à suivre pour pouvoir avoir une application fonctionnelle :
 tous d'abord après avoir clone le repository il vous faudra faire :
 -   un composer install /composer update pour pouvoir avoir le dossier vendor. 
