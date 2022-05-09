@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "50a175a7-e629-4473-b119-937f18214a9e",
+		"name": "Insider",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "alternating",
+			"item": [
+				{
+					"name": "show by id alternating",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"description": "affiche l'alternant choisi par l'id"
+					},
+					"response": []
+				},
+				{
+					"name": "delete alternating",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"description": "Permet de verifier si la route supprime l'alternant par l'id"
+					},
+					"response": []
+				},
+				{
+					"name": "index alternating",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"description": "affiche tous les alternants"
+					},
+					"response": []
+				},
+				{
+					"name": "store alternating",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"description": "change l'alternant par l'id"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
